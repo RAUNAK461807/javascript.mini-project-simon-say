@@ -1,3 +1,3 @@
 # simon say
 
-This is mone of the most popular game.
+This is one of the most popular game.
